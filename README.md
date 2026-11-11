@@ -181,7 +181,7 @@ Evaluated on a 3,064-image brain tumor MRI dataset.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hkbit03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats"/>
+![hkbit03's GitHub Stats](https://readme-stats-github.pages.dev/api?username=hkbit03&theme=dark)
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkbit03&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
 <img src="https://streak-stats.demolab.com/?user=hkbit03&theme=tokyonight&hide_border=true" alt="Streak"/>
