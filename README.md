@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=HARI%20KRISHNAN&fontSize=58&fontColor=7CFFB2&animation=twinkling&fontAlignY=40&desc=I%20build%20full-stack%20apps%20%C2%B7%20tame%20messy%20data%20%C2%B7%20teach%20neurons%20to%20spike&descSize=17&descAlignY=62" width="100%" alt="Hari Krishnan"/>
+[![GitHubCard](https://githubcard.com/hkbit03.svg)](https://githubcard.com/hkbit03/card?utm_source=github&utm_medium=readme)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=7CFFB2&center=true&vCenter=true&width=720&height=40&lines=%24+whoami+%E2%86%92+Hari+Krishnan;%24+role+%E2%86%92+Full-Stack+%2F+Backend+%2F+Python+Developer;%24+status+%E2%86%92+open_to_work+%3D+True+%F0%9F%9F%A2;%24+paper+%E2%86%92+IEEE+Xplore+%C2%B7+ICSCST+2026;%24+let%27s_talk+%E2%86%92+hari.krishnan.work03%40gmail.com)](https://git.io/typing-svg)
 
@@ -182,9 +182,8 @@ Evaluated on a 3,064-image brain tumor MRI dataset.
 <div align="center">
 
 ![hkbit03's GitHub Stats](https://readme-stats-github.pages.dev/api?username=hkbit03&theme=dark)
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkbit03&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=hkbit03&theme=dark)
 
-<img src="https://streak-stats.demolab.com/?user=hkbit03&theme=tokyonight&hide_border=true" alt="Streak"/>
 
 </div>
 
