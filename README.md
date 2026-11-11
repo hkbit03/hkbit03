@@ -10,8 +10,8 @@
 ![Batch](https://img.shields.io/badge/BATCH-MCA_2026-0a66c2?style=for-the-badge&labelColor=0f2027)
 ![Base](https://img.shields.io/badge/BASE-KOCHI,_INDIA-orange?style=for-the-badge&labelColor=0f2027)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harikrishnan106)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hari.krishnan.work03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harikrishnan106/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=hari.krishnan.work03@gmail.com&su=Hello%20Hari)
 [![IEEE Paper](https://img.shields.io/badge/IEEE_Xplore-My_Paper-00629B?style=flat-square&logo=ieee&logoColor=white)](https://doi.org/10.1109/ICSCST70031.2026.11709866)
 
 </div>
