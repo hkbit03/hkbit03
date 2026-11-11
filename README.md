@@ -180,11 +180,8 @@ Evaluated on a 3,064-image brain tumor MRI dataset.
 ## 📊 GitHub Stats
 
 <div align="center">
-
 ![hkbit03's GitHub Stats](https://readme-stats-github.pages.dev/api?username=hkbit03&theme=dark)
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=hkbit03&theme=dark)
-
-
 </div>
 
 ---
