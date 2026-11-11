@@ -1,1 +1,3 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hari%20Krishnan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Python%20%7C%20Deep%20Learning%20Researcher&descSize=18&descAlignY=60" width="100%" alt="Hari Krishnan banner"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=F70000&center=true&vCenter=true&random=true&width=435&lines=MCA+Graduate;Full+Stack+Developer;Python+Developer;AI%2FML;Researcher)](https://git.io/typing-svg)
